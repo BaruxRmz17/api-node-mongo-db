@@ -1,3 +1,4 @@
+// index.js
 'use strict'
 
 var mongoose = require('mongoose')
