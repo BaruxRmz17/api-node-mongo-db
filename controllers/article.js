@@ -1,3 +1,4 @@
+// controllers/article.js
 'use strict'
 
 var controller = {
